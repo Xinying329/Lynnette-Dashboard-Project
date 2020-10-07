@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Soleil-Bold';
+    src: url(../font/Soleil-Bold.ttf);
+}
+@font-face {
+    font-family: 'Soleil-Book';
+    src: url(../font/Soleil-Book.ttf);
+}
+@font-face {
+    font-family: 'Soleil-Light';
+    src: url(../font/Soleil-Light.ttf);
+}
+@font-face {
+    font-family: 'Soleil-Regular';
+    src: url(../font/Soleil-Regular.ttf);
+}
+
+body, html {
+  height: 100%;
+  position: relative;
+  /* The image used */
+  background-image: url("../img/lynnette-sapce-bg-high.png");
+
+  /* Full height */
+  height: 100%;
+
+   Center and scale the image nicely 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}*/
+
+.bg {
+
+}
+
+/*Skill Bar Chart*/
+.bar-chart {  
+    background-color: #C7D9D9;  
+}
+
+.bar { fill: steelblue; }
